@@ -1,0 +1,15 @@
+ 20 placuta frana atp 200 24 248 
+ 22 ambreiaj transmisie atp 300 24 372 
+ 25 disc frana europart 550 24 682 
+ 27 oglinda accesorii europart 180 24 223.2 
+ 30 cauciuc consumabile europart 1500 24 1860 
+ 31 cilindru motor transilvania 150 24 186 
+ 32 piston motor atp 250 24 310 
+ 35 proiector accesorii atp 50 24 62 
+ 37 lampa gabarit atp 155 24 192.2  
+ 18 compresor aer europart 1200 24 1488 
+ 10 membrana frana transilvania 10 24 12.4 
+ 33 cablu accesorii europart 50 24 62
+ 5 filtru consumabile transilvania 100 24 124
+ 9 rulment roata skf 2500 24 3100 
+ 80 senzor frana europart 565 24 700.6 
